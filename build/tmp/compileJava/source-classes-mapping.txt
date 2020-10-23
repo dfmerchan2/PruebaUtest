@@ -1,0 +1,28 @@
+co/com/utest/interactions/AbrirNavegador.java
+ co.com.utest.interactions.AbrirNavegador
+co/com/utest/userinterface/PersonalPage.java
+ co.com.utest.userinterface.PersonalPage
+co/com/utest/utils/Builder.java
+ co.com.utest.utils.Builder
+co/com/utest/userinterface/HomePage.java
+ co.com.utest.userinterface.HomePage
+co/com/utest/tasks/IngresarFormulario.java
+ co.com.utest.tasks.IngresarFormulario
+co/com/utest/userinterface/DireccionPage.java
+ co.com.utest.userinterface.DireccionPage
+co/com/utest/models/Dispositivos.java
+ co.com.utest.models.Dispositivos
+co/com/utest/models/Personal.java
+ co.com.utest.models.Personal
+co/com/utest/models/builder/PersonalBuilder.java
+ co.com.utest.models.builder.PersonalBuilder
+co/com/utest/models/Direcciones.java
+ co.com.utest.models.Direcciones
+co/com/utest/tasks/InformacionDireccion.java
+ co.com.utest.tasks.InformacionDireccion
+co/com/utest/tasks/InformacionPeronal.java
+ co.com.utest.tasks.InformacionPeronal
+co/com/utest/models/builder/DireccionesBuilder.java
+ co.com.utest.models.builder.DireccionesBuilder
+co/com/utest/utils/Obtener.java
+ co.com.utest.utils.Obtener

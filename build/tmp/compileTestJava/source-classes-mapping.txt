@@ -1,0 +1,6 @@
+co/com/utest/stepdedefinitions/Hook.java
+ co.com.utest.stepdedefinitions.Hook
+co/com/utest/runners/RegistroRunner.java
+ co.com.utest.runners.RegistroRunner
+co/com/utest/stepdedefinitions/RegistroStepDefinition.java
+ co.com.utest.stepdedefinitions.RegistroStepDefinition
